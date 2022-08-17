@@ -1,7 +1,7 @@
 <h1 align="center">Hola Soy Leila!🐣</h1>
 <h3 align="center">Nueva en el mundo de la programación.💻 Pasión por el frontend.💜</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
