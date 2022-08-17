@@ -1,6 +1,7 @@
 <h1 align="center">Hola Soy Leila!🐣</h1>
 <h3 align="center">Nueva en el mundo de la programación.💻</h3>
 <h3 align="center">Pasión por el frontend.💜</h3>
+<a href='https://postimg.cc/v42PNvwt' target='_blank'><img src='https://i.postimg.cc/v42PNvwt/Toyoi-Yuuta-Area-Visual-01.gif' border='0' alt='Toyoi-Yuuta-Area-Visual-01'/></a>
 
 <p align="left">
 </p>
