@@ -3,6 +3,9 @@
 <h3 align="center">Pasión por el frontend.💜</h3>
 <img align="right" alt="Coding" width="350" src="https://i.postimg.cc/JzQmxxqL/descarga.gif' border='0' alt='descarga'">
 
+- 📝 **Actualmente estudiando como autodidacta y realizando una pagina web.**
+
+- 📌 Email: **leilaromero1502@gmail.com**
 
 <p align="left">
 </p>
