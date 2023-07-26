@@ -4,8 +4,8 @@
 <img align="right" alt="Coding" width="350" src="https://i.postimg.cc/JzQmxxqL/descarga.gif' border='0' alt='descarga'">
 
 - 📝 **Actualmente estudiando Desarrollo Web en Educación IT y Data Analytics en Google - Coursera.**
-
-- 📌 Email: **leilaromero1502@gmail.com
+<h3 align="left">Contactame</h3>
+- 📌 Email: leilaromero1502@gmail.com
 <h3 align="left">Mi LinkedIn</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://ww.linkedin.com/in/leila-rocio-wromero-451982201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://ww.linkedin.com/in/leila-rocio-wromero-451982201/" height="30" width="40" /></a>
