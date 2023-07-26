@@ -1,11 +1,12 @@
 <h1 align="center">¡Hola Soy Leila!🐣</h1>
-<h3 align="center">Nueva en el mundo de la programación.💻</h3>
+<h3 align="center">Estudiante de Desarrollo Web Full Stack.🚀</h3>
 <h3 align="center">Pasión por el frontend.💜</h3>
 <img align="right" alt="Coding" width="350" src="https://i.postimg.cc/JzQmxxqL/descarga.gif' border='0' alt='descarga'">
 
-- 📝 **Actualmente estudiando Programación Web en Potrero Digital y Diseño UX en Coursera.**
+- 📝 **Actualmente estudiando Desarrollo Web en Educación IT y Data Analytics en Google - Coursera.**
 
-- 📌 Email: **leilaromero1502@gmail.com**
+- 📌 Email: **leilaromero1502@gmail.com
+- 📌 LinkedIn: https://www.linkedin.com/in/leila-rocio-romero-451982201/**
 
 <p align="left">
 </p>
